@@ -1,0 +1,25 @@
+/*this is a comment*/
+ul{
+    background-color: gold;
+    padding: 20px;
+    border: 3px;
+    width: 200px;
+    height: 20px; 
+}
+.done{
+    padding: 40px;
+}
+P{
+    color: blueviolet !important;
+}
+#profilePicture{
+    border: dotted 2px purple;
+    border-radius: 50px;
+    margin: 500px;
+}
+.container{
+    height: 900px;
+    width: 600px;
+    background-color: aquamarine;
+    margin: ;
+}

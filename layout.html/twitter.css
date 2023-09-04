@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.mother{
+    height: 500px;
+    width: 1000px;
+    background-color: brown;
+}
+.blue{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    float : left ;
+}
+.white{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(196, 235, 184);
+    float: right;
+    
+    
+    
+}
+.content{
+    padding: 100px;
+    color: aliceblue;
+}
+.content h4{
+    font-size: 20px;
+}
+form{
+    padding: 20px;
+}
+input{
+    padding: 7px;
+    border: solid rgb(253, 252, 252) 1px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 6px 1px rgb(191, 191, 230);
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    border: solid rgb(227, 227, 235) 1px
+}
+
+
+  
+
